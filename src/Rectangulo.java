@@ -3,7 +3,7 @@ public class Rectangulo extends Figuras {
     private double ancho;
     public Rectangulo(double largo,double ancho){
         super();
-        this.largo=largo;
+        this.largo =largo;
         this.ancho=ancho;
     }
     public double area(){
