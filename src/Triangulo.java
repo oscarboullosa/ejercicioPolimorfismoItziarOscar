@@ -3,7 +3,7 @@ public class Triangulo extends Figuras {
     private double altura;
     public Triangulo(double base,double altura){
         super();
-        this.base= base;
+        this.base=base;
         this.altura=altura;
     }
     public double area(){

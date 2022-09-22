@@ -4,7 +4,7 @@ import java.util.Collections;
 public class Main {
     public static void main(String[] args) {
         Circulo circulo=new Circulo(5.7);
-        Triangulo triangulo=new Triangulo(9.4,7.2);
+        Triangulo triangulo =new Triangulo(9.4,7.2);
         Rectangulo rectangulo =new Rectangulo(4.16,3.987);
         Cuadrado cuadrado=new Cuadrado(10.27);
         Figuras[] vector =new Figuras[4];
