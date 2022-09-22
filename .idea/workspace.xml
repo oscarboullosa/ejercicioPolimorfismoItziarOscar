@@ -6,6 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="b544b384-4720-4a22-b8c3-edb0ba4a2248" name="Changes" comment="Ejercicio de Polimorfismo">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Circulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Circulo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cuadrado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cuadrado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Figuras.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Figuras.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Rectangulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Rectangulo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Triangulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Triangulo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +31,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
   <component name="ProjectId" id="2F7M7JeQnhmJhirfkcKJGDKsZTX" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -34,7 +43,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/User/OneDrive/Escritorio/Uni/4t/1r quatri/DSA/Unitat 2-OO, Java/ejercicioPolimorfismoItziarOscar"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />

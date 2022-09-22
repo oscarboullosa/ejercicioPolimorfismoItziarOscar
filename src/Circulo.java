@@ -7,4 +7,7 @@ public class Circulo extends Figuras {
     public double area(){
         return Math.pow(radio,2)*Math.PI;
     }
+    public String getNombre(){
+        return "circulo";
+    }
 }

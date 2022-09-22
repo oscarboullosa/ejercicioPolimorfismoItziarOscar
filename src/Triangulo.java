@@ -9,4 +9,7 @@ public class Triangulo extends Figuras {
     public double area(){
         return base*altura/2;
     }
+    public String getNombre(){
+        return "triángulo";
+    }
 }

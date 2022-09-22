@@ -9,4 +9,7 @@ public class Rectangulo extends Figuras {
     public double area(){
         return largo*ancho;
     }
+    public String getNombre(){
+        return "rectángulo";
+    }
 }
